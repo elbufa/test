@@ -1,9 +1,9 @@
 variable "aws_key_path" {
-  default = "/home/usuario/psepulveda-ireland.pem"
+  default = "/home/usuario/arp2.claves.pem"
 }
 
 variable "aws_key_name" {
-  default = "psepulveda-ireland"
+  default = "arp2.claves"
 }
 
 variable "aws_region" {
